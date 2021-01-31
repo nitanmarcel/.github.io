@@ -34,6 +34,9 @@ additional_links:
 - title: Download pdf
   icon: fas fa-file-pdf
   url: https://raw.githubusercontent.com/nitanmarcel/ro-cv/main/assets/cv.pdf
+- title: View in English
+  icon: fas fa-globe
+  url: https://nitanmarcel.github.io/en-cv/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
