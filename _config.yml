@@ -1,0 +1,95 @@
+# Site
+repository: nitanmarcel/ro-cv
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Marcel Alexandru Nitan
+#title: "-"
+email: nitan.marcel@gmail.com
+website: https://github.com/nitanmarcel/ro.resume.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: "-"
+github_username:  nitanmarcel
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: "marcel.alexandru.3939"
+# flickr_username: jekyll
+instagram_username: nitan.alexandru
+#linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: Despre mine
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Salut! Ma numesc Nitan Alexandru Marcel, am 22 de ani si sunt din comuna Dragoiesti, jud. Suceava. Am studiat electrica auto la liceul Alexandru Ioan Cuza, si am terminat 12 clase dar fara a reusi sa iau bacalaureatul.
+
+  Sunt o fire calma, atenta, si sunt pregatit mereu sa invat lucruri noi. Ma adaptez usor cerintelor jobului si sunt o persoana care crede in expansiunea cunostintelor si al experientei.
+
+  Unele dintre hobby-urile mele sunt IT-ul si programarea. In acest moment cunosc 2 limbaje de programare: Python cu experienta de 3 ani si C# cu o experienta de 6 luni.
+
+content:
+  - title: Educatie
+    layout: list
+    content:
+      - layout: top-middle
+        title: Alexandru Ioan Cuza
+        sub_title: Electrician Auto
+        caption: 2013 - 2017
+        quote:  >
+          Am studiat electrica auto la liceul Alexandru Ioan Cuza din Suceava terminand 12 clase insa fara a detine diploma de bacalaureat.
+  
+  - title: Experienta
+    layout: list
+    content:
+      - layout: top-middle
+        title: AngelTrans
+        sub_title: Manipulator Marfa
+        caption: Mai 2019 - Iulie 2019
+      - layout: top-middle
+        title: First Step Consulting
+        sub_title: Agent Vanzari d2d
+        caption: Iulie 2019 - Octombrie 2019
+      - layout: top-middle
+        title: Marco Spoleto
+        sub_title: Ajutor Bucatar
+        caption: Noiembrie 2019 - Ianuarie 2020
+# Footer
+footer_show_references: true
+references_title: Referinte disponibile la cerere (Override references text)
+
+# Build settings
+remote_theme: nitanmarcel/ro-cv
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
