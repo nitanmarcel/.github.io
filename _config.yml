@@ -62,15 +62,13 @@ content:
         title: Alexandru Ioan Cuza
         sub_title: Electrician Auto
         caption: 2013 - 2017
-        quote:  >
-          Am studiat electrica auto la liceul Alexandru Ioan Cuza din Suceava terminand 12 clase insa fara a detine diploma de bacalaureat.
-  
+
   - title: Experienta
     layout: list
     content:
       - layout: top-middle
         title: AngelTrans
-        sub_title: Manipulator Marfa
+        sub_title: Manipulant Marfa
         caption: Mai 2019 - Iulie 2019
       - layout: top-middle
         title: First Step Consulting
