@@ -82,7 +82,7 @@ content:
         caption: Noiembrie 2019 - Ianuarie 2020
 # Footer
 footer_show_references: true
-references_title: Referinte disponibile la cerere
+references_title: Referinte disponibile la cerere.
 
 # Build settings
 remote_theme: sproogen/resume-theme
