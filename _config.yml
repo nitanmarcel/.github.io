@@ -9,17 +9,17 @@ version: 2
 name: Marcel Alexandru Nitan
 #title: "-"
 email: nitan.marcel@gmail.com
-website: https://github.com/nitanmarcel/
+website: https://nitanmarcel.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 #twitter_username: "-"
-github_username:  nitanmarcel
+#github_username:  nitanmarcel
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: "marcel.alexandru.3939"
+#facebook_username: "marcel.alexandru.3939"
 # flickr_username: jekyll
 instagram_username: nitan.alexandru
 #linkedin_username: jameswgrant
